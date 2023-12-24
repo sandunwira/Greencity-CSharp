@@ -1,0 +1,94 @@
+D:\C#\POS Inventory system\Login\Login\bin\Debug\Login.exe.config
+D:\C#\POS Inventory system\Login\Login\bin\Debug\Login.exe
+D:\C#\POS Inventory system\Login\Login\bin\Debug\Login.pdb
+D:\C#\POS Inventory system\Login\Login\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\C#\POS Inventory system\Login\Login\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\C#\POS Inventory system\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\C#\POS Inventory system\Login\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+D:\C#\POS Inventory system\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\C#\POS Inventory system\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\C#\POS Inventory system\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\C#\POS Inventory system\Login\Login\obj\Debug\Login.csproj.CopyComplete
+D:\C#\POS Inventory system\Login\Login\obj\Debug\Login.exe
+D:\C#\POS Inventory system\Login\Login\obj\Debug\Login.pdb
+D:\C#\POS Inventory system\Login\Login\obj\Debug\Login.frmlogin.resources
+D:\C#\POS Inventory system\Login\Login\bin\Debug\Login.exe.manifest
+D:\C#\POS Inventory system\Login\Login\bin\Debug\Login.application
+D:\C#\POS Inventory system\Login\Login\obj\Debug\Login.exe.manifest
+D:\C#\POS Inventory system\Login\Login\obj\Debug\Login.application
+D:\C#\POS Inventory system\Login\Login\bin\Debug\Guna.UI2.dll
+D:\C#\POS Inventory system\Login\Login\obj\Debug\Login.Admininventory.resources
+D:\C#\POS Inventory system\Login\Login\obj\Debug\Login.transaction.resources
+D:\C#\POS Inventory system\Login\Login\obj\Debug\Login.Cashiers.resources
+D:\C#\POS Inventory system\Login\Login\obj\Debug\Login.Categories.resources
+D:\C#\POS Inventory system\Login\Login\obj\Debug\Login.Sales.resources
+D:\Project 114\Login\Login\bin\Debug\Login.exe.config
+D:\Project 114\Login\Login\bin\Debug\Login.exe.manifest
+D:\Project 114\Login\Login\bin\Debug\Login.application
+D:\Project 114\Login\Login\bin\Debug\Login.exe
+D:\Project 114\Login\Login\bin\Debug\Login.pdb
+D:\Project 114\Login\Login\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Project 114\Login\Login\bin\Debug\Guna.UI2.dll
+D:\Project 114\Login\Login\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Project 114\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\Project 114\Login\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+D:\Project 114\Login\Login\obj\Debug\Login.Admininventory.resources
+D:\Project 114\Login\Login\obj\Debug\Login.Cashiers.resources
+D:\Project 114\Login\Login\obj\Debug\Login.Categories.resources
+D:\Project 114\Login\Login\obj\Debug\Login.frmlogin.resources
+D:\Project 114\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Project 114\Login\Login\obj\Debug\Login.Sales.resources
+D:\Project 114\Login\Login\obj\Debug\Login.transaction.resources
+D:\Project 114\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Project 114\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Project 114\Login\Login\obj\Debug\Login.exe.manifest
+D:\Project 114\Login\Login\obj\Debug\Login.application
+D:\Project 114\Login\Login\obj\Debug\Login.csproj.CopyComplete
+D:\Project 114\Login\Login\obj\Debug\Login.exe
+D:\Project 114\Login\Login\obj\Debug\Login.pdb
+C:\Users\Sandun\Downloads\Project 114-1(1)\Project 114\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Sandun\Downloads\Project 114-1(1)\Project 114\Login\Login\bin\Debug\Login.exe.manifest
+C:\Users\Sandun\Downloads\Project 114-1(1)\Project 114\Login\Login\bin\Debug\Login.application
+C:\Users\Sandun\Downloads\Project 114-1(1)\Project 114\Login\Login\bin\Debug\Login.exe
+C:\Users\Sandun\Downloads\Project 114-1(1)\Project 114\Login\Login\bin\Debug\Login.pdb
+C:\Users\Sandun\Downloads\Project 114-1(1)\Project 114\Login\Login\bin\Debug\Guna.UI2.dll
+C:\Users\Sandun\Downloads\Project 114-1(1)\Project 114\Login\Login\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Sandun\Downloads\Project 114-1(1)\Project 114\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\Sandun\Downloads\Project 114-1(1)\Project 114\Login\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sandun\Downloads\Project 114-1(1)\Project 114\Login\Login\obj\Debug\Login.Admininventory.resources
+C:\Users\Sandun\Downloads\Project 114-1(1)\Project 114\Login\Login\obj\Debug\Login.Cashiers.resources
+C:\Users\Sandun\Downloads\Project 114-1(1)\Project 114\Login\Login\obj\Debug\Login.Categories.resources
+C:\Users\Sandun\Downloads\Project 114-1(1)\Project 114\Login\Login\obj\Debug\Login.frmlogin.resources
+C:\Users\Sandun\Downloads\Project 114-1(1)\Project 114\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Sandun\Downloads\Project 114-1(1)\Project 114\Login\Login\obj\Debug\Login.Sales.resources
+C:\Users\Sandun\Downloads\Project 114-1(1)\Project 114\Login\Login\obj\Debug\Login.transaction.resources
+C:\Users\Sandun\Downloads\Project 114-1(1)\Project 114\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Sandun\Downloads\Project 114-1(1)\Project 114\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Sandun\Downloads\Project 114-1(1)\Project 114\Login\Login\obj\Debug\Login.exe.manifest
+C:\Users\Sandun\Downloads\Project 114-1(1)\Project 114\Login\Login\obj\Debug\Login.application
+C:\Users\Sandun\Downloads\Project 114-1(1)\Project 114\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\Sandun\Downloads\Project 114-1(1)\Project 114\Login\Login\obj\Debug\Login.exe
+C:\Users\Sandun\Downloads\Project 114-1(1)\Project 114\Login\Login\obj\Debug\Login.pdb
+C:\Users\Sandun\Downloads\Greencity Assignment\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Sandun\Downloads\Greencity Assignment\Login\Login\bin\Debug\Login.exe.manifest
+C:\Users\Sandun\Downloads\Greencity Assignment\Login\Login\bin\Debug\Login.application
+C:\Users\Sandun\Downloads\Greencity Assignment\Login\Login\bin\Debug\Login.exe
+C:\Users\Sandun\Downloads\Greencity Assignment\Login\Login\bin\Debug\Login.pdb
+C:\Users\Sandun\Downloads\Greencity Assignment\Login\Login\bin\Debug\Guna.UI2.dll
+C:\Users\Sandun\Downloads\Greencity Assignment\Login\Login\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Sandun\Downloads\Greencity Assignment\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\Sandun\Downloads\Greencity Assignment\Login\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sandun\Downloads\Greencity Assignment\Login\Login\obj\Debug\Login.Admininventory.resources
+C:\Users\Sandun\Downloads\Greencity Assignment\Login\Login\obj\Debug\Login.Cashiers.resources
+C:\Users\Sandun\Downloads\Greencity Assignment\Login\Login\obj\Debug\Login.Categories.resources
+C:\Users\Sandun\Downloads\Greencity Assignment\Login\Login\obj\Debug\Login.frmlogin.resources
+C:\Users\Sandun\Downloads\Greencity Assignment\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Sandun\Downloads\Greencity Assignment\Login\Login\obj\Debug\Login.Sales.resources
+C:\Users\Sandun\Downloads\Greencity Assignment\Login\Login\obj\Debug\Login.transaction.resources
+C:\Users\Sandun\Downloads\Greencity Assignment\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Sandun\Downloads\Greencity Assignment\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Sandun\Downloads\Greencity Assignment\Login\Login\obj\Debug\Login.exe.manifest
+C:\Users\Sandun\Downloads\Greencity Assignment\Login\Login\obj\Debug\Login.application
+C:\Users\Sandun\Downloads\Greencity Assignment\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\Sandun\Downloads\Greencity Assignment\Login\Login\obj\Debug\Login.exe
+C:\Users\Sandun\Downloads\Greencity Assignment\Login\Login\obj\Debug\Login.pdb
